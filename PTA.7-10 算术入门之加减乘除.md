@@ -41,7 +41,8 @@
 #include<stdio.h>
 int main()
 {
-    int A,B;
+    int A=0,B=0;
+    printf("Please enter numbers:");
     scanf("%d %d",&A,&B);
     while(B<=0)
         scanf("%d %d",&A,&B);
