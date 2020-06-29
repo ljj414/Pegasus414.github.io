@@ -51,7 +51,7 @@ int main()
     if(A%B==0)
         printf("%d / %d = %d\n",A,B,A/B);
     else
-        printf("%d / %d = %.2f\n",A,B,A*1.0/B);
+        printf("%d / %d = %.2f\n",A,B,A*1.0/B);    /*整型转换为浮点型，即可取小数点后两位*/
     return 0;
 }
 ```
