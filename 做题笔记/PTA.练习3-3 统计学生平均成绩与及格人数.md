@@ -30,16 +30,16 @@ int main()
     {
         for(i=1;i<=n;i++)
         {
-            scanf("%d",&grade);
+            scanf("%d",&grade); 
             sum+=grade;
-            if(grade>=60)
-                count++;
+            if(grade>=60)						/*统计及格同学的人数*/
+                count++;						
         }
-        aver=sum*1.0/n;
+        aver=sum*1.0/n;							
         printf("average = %.1f\n",aver);
-        printf("count = %d\n",count);
+        printf("count = %d\n",count);			
     }
-    else
+    else										/*考虑学生为零的情况*/
     {
         printf("average = 0.0\n");
         printf("count = 0");
