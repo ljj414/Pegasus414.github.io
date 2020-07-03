@@ -39,7 +39,7 @@ int main()
         printf("average = %.1f\n",aver);
         printf("count = %d\n",count);			
     }
-    else										/*考虑学生为零的情况*/
+    else								/*考虑学生为零的情况*/
     {
         printf("average = 0.0\n");
         printf("count = 0");
