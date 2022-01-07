@@ -1,0 +1,4 @@
+﻿  points.cpp
+E:\桌面\客户消费积分管理\points.cpp(370,7): warning C4101: “key”: 未引用的局部变量
+E:\桌面\客户消费积分管理\points.cpp(283): warning C4715: “PointsSystem::reviseAccount”: 不是所有的控件路径都返回值
+  客户消费积分管理.vcxproj -> E:\桌面\客户消费积分管理\x64\Debug\客户消费积分管理.exe

@@ -1,0 +1,6 @@
+﻿  points.cpp
+E:\桌面\客户消费积分管理\points.cpp(265,7): warning C4101: “key”: 未引用的局部变量
+E:\桌面\客户消费积分管理\points.cpp(507,20): warning C4018: “<”: 有符号/无符号不匹配
+  源.cpp
+  正在生成代码...
+  客户消费积分管理.vcxproj -> E:\桌面\客户消费积分管理\Debug\客户消费积分管理.exe
